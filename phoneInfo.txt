@@ -1,0 +1,20 @@
+Tue Jan 22 07:07:07 GMT 2019
+curState=ApStaDisabledState
+curState=InitialState
+curState=UninitializedState
+Current Battery Service state:
+  AC powered: true
+  USB powered: false
+  Wireless powered: false
+  Max charging current: 5000000
+  Max charging voltage: 5000000
+  Charge counter: 10
+  status: 2
+  health: 2
+  present: true
+  level: 100
+  scale: 100
+  voltage: 5000
+  temperature: 250
+  technology: Li-ion
+    mSignalStrength=SignalStrength: 12 4 -90 -120 -80 -120 4 90 -100 -10 30 7 0 2147483647 gsm|lte
